@@ -1,0 +1,2 @@
+Projem C# form uygulamaları üzerinden olduğu için kodu bu şekilde paylaşmak durumunda kaldım, 
+Oyunun zor kısmını ayarlaması bitmedi.
